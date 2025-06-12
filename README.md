@@ -4,11 +4,33 @@
 
 **Bird-Song-Detector** is part of a research to improve bird vocalization identification. The Bird Song Detector is designed to detect bird vocalizations in audio files using a YOLO-based model from the [BIRDeep project](https://github.com/GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks). The system converts audio files into spectrogram images, performs bird song detection on these images, and transforms the predictions into time segments.
 
-The model has been trained on the [BIRDeep dataset](https://huggingface.co/datasets/GrunCrow/BIRDeep_AudioAnnotations), which consists of audio recordings from **Doñana National Park**, located in Huelva, Spain. As such, the detector is particularly well-suited for identifying bird songs from this region and has not been tested on data from other areas.
+> ⚠️ **Note**: The model has been trained on the [BIRDeep dataset](https://huggingface.co/datasets/GrunCrow/BIRDeep_AudioAnnotations), which consists of audio recordings from **Doñana National Park (Huelva, Spain)**, located in Huelva, Spain. As such, the detector is particularly well-suited for identifying bird songs from this region and has not been tested on data from other areas.
 
 For more information, visit the full [BIRDeep Bird Song Detector repository](https://github.com/GrunCrow/BIRDeep_BirdSongDetector_NeuralNetworks).
 
-This repository is part of the manuscript *"A Bird Song Detector for Improving Bird Identification through Deep Learning: A Case Study from Doñana"*, which is currently under review.
+---
+
+## 📄 Citation
+
+This repository supports the research article:
+
+> Márquez-Rodríguez, A., Mohedano-Munoz, M. Á., Marín-Jiménez, M. J., Santamaría-García, E., Bastianelli, G., Jordano, P., & Mendoza, I.  
+> **A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana**  
+> *arXiv preprint arXiv:2503.15576*  
+> Accepted in *Ecological Informatics*
+
+```bibtex
+@misc{marquezrodriguez2025birdsongdetectorimproving,
+  title={A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana}, 
+  author={Alba Márquez-Rodríguez and Miguel Ángel Mohedano-Munoz and Manuel J. Marín-Jiménez and Eduardo Santamaría-García and Giulia Bastianelli and Pedro Jordano and Irene Mendoza},
+  year={2025},
+  eprint={2503.15576},
+  archivePrefix={arXiv},
+  primaryClass={cs.SD},
+  url={https://arxiv.org/abs/2503.15576}
+}
+```
+📄 [Read the preprint](https://arxiv.org/abs/2503.15576)
 
 ## Project Structure
 
