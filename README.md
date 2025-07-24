@@ -16,21 +16,21 @@ This repository supports the research article:
 
 > Márquez-Rodríguez, A., Mohedano-Munoz, M. Á., Marín-Jiménez, M. J., Santamaría-García, E., Bastianelli, G., Jordano, P., & Mendoza, I.  
 > **A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana**  
-> *arXiv preprint arXiv:2503.15576*  
-> Accepted in *Ecological Informatics*
+> Ecological Informatics, 2025, 103254. https://doi.org/10.1016/j.ecoinf.2025.103254
 
 ```bibtex
-@misc{marquezrodriguez2025birdsongdetectorimproving,
-  title={A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana}, 
-  author={Alba Márquez-Rodríguez and Miguel Ángel Mohedano-Munoz and Manuel J. Marín-Jiménez and Eduardo Santamaría-García and Giulia Bastianelli and Pedro Jordano and Irene Mendoza},
+@article{marquez2025bird,
+  title={A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana},
+  author={Márquez-Rodríguez, Alba and Mohedano-Munoz, Miguel Ángel and Marín-Jiménez, Manuel J. and Santamaría-García, Eduardo and Bastianelli, Giulia and Jordano, Pedro and Mendoza, Irene},
+  journal={Ecological Informatics},
+  volume={80},  % You can include volume if available
+  pages={103254},
   year={2025},
-  eprint={2503.15576},
-  archivePrefix={arXiv},
-  primaryClass={cs.SD},
-  url={https://arxiv.org/abs/2503.15576}
+  publisher={Elsevier},
+  doi={10.1016/j.ecoinf.2025.103254}
 }
 ```
-📄 [Read the preprint](https://arxiv.org/abs/2503.15576)
+📄 [Read the article](https://doi.org/10.1016/j.ecoinf.2025.103254)
 
 ## Project Structure
 
