@@ -23,7 +23,7 @@ This repository supports the research article:
   title={A Bird Song Detector for improving bird identification through Deep Learning: a case study from Doñana},
   author={Márquez-Rodríguez, Alba and Mohedano-Munoz, Miguel Ángel and Marín-Jiménez, Manuel J. and Santamaría-García, Eduardo and Bastianelli, Giulia and Jordano, Pedro and Mendoza, Irene},
   journal={Ecological Informatics},
-  volume={80},  % You can include volume if available
+  volume={90},
   pages={103254},
   year={2025},
   publisher={Elsevier},
